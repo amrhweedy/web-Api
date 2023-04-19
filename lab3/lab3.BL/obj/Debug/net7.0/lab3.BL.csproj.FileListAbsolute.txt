@@ -1,0 +1,15 @@
+D:\iti\web api\day 3\lab3\lab3.BL\bin\Debug\net7.0\lab3.BL.deps.json
+D:\iti\web api\day 3\lab3\lab3.BL\bin\Debug\net7.0\lab3.BL.dll
+D:\iti\web api\day 3\lab3\lab3.BL\bin\Debug\net7.0\lab3.BL.pdb
+D:\iti\web api\day 3\lab3\lab3.BL\bin\Debug\net7.0\lab3.DAL.dll
+D:\iti\web api\day 3\lab3\lab3.BL\bin\Debug\net7.0\lab3.DAL.pdb
+D:\iti\web api\day 3\lab3\lab3.BL\obj\Debug\net7.0\lab3.BL.csproj.AssemblyReference.cache
+D:\iti\web api\day 3\lab3\lab3.BL\obj\Debug\net7.0\lab3.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\web api\day 3\lab3\lab3.BL\obj\Debug\net7.0\lab3.BL.AssemblyInfoInputs.cache
+D:\iti\web api\day 3\lab3\lab3.BL\obj\Debug\net7.0\lab3.BL.AssemblyInfo.cs
+D:\iti\web api\day 3\lab3\lab3.BL\obj\Debug\net7.0\lab3.BL.csproj.CoreCompileInputs.cache
+D:\iti\web api\day 3\lab3\lab3.BL\obj\Debug\net7.0\lab3.BL.csproj.CopyComplete
+D:\iti\web api\day 3\lab3\lab3.BL\obj\Debug\net7.0\lab3.BL.dll
+D:\iti\web api\day 3\lab3\lab3.BL\obj\Debug\net7.0\refint\lab3.BL.dll
+D:\iti\web api\day 3\lab3\lab3.BL\obj\Debug\net7.0\lab3.BL.pdb
+D:\iti\web api\day 3\lab3\lab3.BL\obj\Debug\net7.0\ref\lab3.BL.dll

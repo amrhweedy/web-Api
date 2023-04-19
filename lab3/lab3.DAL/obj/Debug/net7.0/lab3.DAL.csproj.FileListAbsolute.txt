@@ -1,0 +1,14 @@
+D:\iti\web api\day 3\lab3\lab3.DAL\bin\Debug\net7.0\lab3.DAL.deps.json
+D:\iti\web api\day 3\lab3\lab3.DAL\bin\Debug\net7.0\lab3.DAL.runtimeconfig.json
+D:\iti\web api\day 3\lab3\lab3.DAL\bin\Debug\net7.0\lab3.DAL.dll
+D:\iti\web api\day 3\lab3\lab3.DAL\bin\Debug\net7.0\lab3.DAL.pdb
+D:\iti\web api\day 3\lab3\lab3.DAL\obj\Debug\net7.0\lab3.DAL.csproj.AssemblyReference.cache
+D:\iti\web api\day 3\lab3\lab3.DAL\obj\Debug\net7.0\lab3.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\web api\day 3\lab3\lab3.DAL\obj\Debug\net7.0\lab3.DAL.AssemblyInfoInputs.cache
+D:\iti\web api\day 3\lab3\lab3.DAL\obj\Debug\net7.0\lab3.DAL.AssemblyInfo.cs
+D:\iti\web api\day 3\lab3\lab3.DAL\obj\Debug\net7.0\lab3.DAL.csproj.CoreCompileInputs.cache
+D:\iti\web api\day 3\lab3\lab3.DAL\obj\Debug\net7.0\lab3.DAL.dll
+D:\iti\web api\day 3\lab3\lab3.DAL\obj\Debug\net7.0\refint\lab3.DAL.dll
+D:\iti\web api\day 3\lab3\lab3.DAL\obj\Debug\net7.0\lab3.DAL.pdb
+D:\iti\web api\day 3\lab3\lab3.DAL\obj\Debug\net7.0\lab3.DAL.genruntimeconfig.cache
+D:\iti\web api\day 3\lab3\lab3.DAL\obj\Debug\net7.0\ref\lab3.DAL.dll

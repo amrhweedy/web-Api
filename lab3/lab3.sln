@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3.Apis", "lab3.Apis\lab3.Apis.csproj", "{B534C60D-9835-4F6E-BD60-D7076B102DE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3.BL", "lab3.BL\lab3.BL.csproj", "{4DBDF69E-2FDC-4EEF-B016-8C35E5F47A8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3.DAL", "lab3.DAL\lab3.DAL.csproj", "{55ED27D8-49C3-46AB-A1C6-854ACE3E2630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B534C60D-9835-4F6E-BD60-D7076B102DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B534C60D-9835-4F6E-BD60-D7076B102DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B534C60D-9835-4F6E-BD60-D7076B102DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B534C60D-9835-4F6E-BD60-D7076B102DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DBDF69E-2FDC-4EEF-B016-8C35E5F47A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBDF69E-2FDC-4EEF-B016-8C35E5F47A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DBDF69E-2FDC-4EEF-B016-8C35E5F47A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DBDF69E-2FDC-4EEF-B016-8C35E5F47A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55ED27D8-49C3-46AB-A1C6-854ACE3E2630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55ED27D8-49C3-46AB-A1C6-854ACE3E2630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55ED27D8-49C3-46AB-A1C6-854ACE3E2630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55ED27D8-49C3-46AB-A1C6-854ACE3E2630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A662294-7618-4CF7-9130-09D664235190}
+	EndGlobalSection
+EndGlobal
